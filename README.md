@@ -16,3 +16,5 @@ dataset. I have found and suggested Gradient Tree Boosting to be
 the most effective, with a classification accuracy of 91%, despite the fact that
 previous studies have identified Support Vector Machine and Random Forest to
 be the most efficient models in these kind of classification tasks.
+
+I have also developed a web-view app intigrating with the best-performed ml model.
